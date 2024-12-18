@@ -1,2 +1,3 @@
 # Radiant_College
-This is my First Repository
+This is my first repository
+Author-Rohit Kohar
